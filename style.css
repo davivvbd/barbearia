@@ -1,4 +1,32 @@
-html {
-  height: 100%;
-  width: 100%;
+.princpal {
+   background-color: #CCCCCC;
+   padding: 30px;
+}
+h1 {
+  text-align:center;
+}
+
+p {
+  text-align: center;
+}
+
+#missao {
+  font-size: 20px;
+}
+
+em b {
+  color: blueviolet;
+}
+
+beneficios{
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+
+h2 {
+   text-align: center;
+}
+
+.imagem-beneficio {
+  width: 50%;
 }
