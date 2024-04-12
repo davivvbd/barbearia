@@ -2,8 +2,10 @@
    background-color: #CCCCCC;
    padding: 30px;
 }
-h1 {
-  text-align:center;
+
+.texto-centralizado{
+  text-align: center;
+  
 }
 
 p {
@@ -23,9 +25,6 @@ beneficios{
   padding: 20px;
 }
 
-h2 {
-   text-align: center;
-}
 
 .imagem-beneficio {
   width: 50%;
